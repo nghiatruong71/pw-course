@@ -1,0 +1,2 @@
+git commit --amend: thay đổi nội dung commit cuối cùng 
+git commit --amend
