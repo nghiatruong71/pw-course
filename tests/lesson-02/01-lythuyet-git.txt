@@ -1,0 +1,13 @@
+1. git init
+- Dùng để khởi tạo một Git repository mới trong thư mục hiện tại.
+
+2. git add <file_name>
+- Dùng để đưa một file cụ thể từ Working Directory vào Staging Area.
+
+3. git add .
+- Dùng để đưa tất cả các file và thay đổi hiện có trong thư mục vào Staging Area.
+- Bao gồm cả file mới, file sửa, file xóa.
+
+4. git commit -m "message"
+- Dùng để lưu các thay đổi đã được add vào Git repository.
+- "message" dùng để mô tả nội dung thay đổi của lần commit đó.
