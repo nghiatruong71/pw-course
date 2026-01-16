@@ -1,2 +1,4 @@
-git commit --amend: thay đổi nội dung commit cuối cùng 
-git commit --amend
+git commit --amend: dùng để sửa commit 
+git commit --amend -m"<message>": đổi nhanh commit message gần nhất
+git restore --staged <file >: dùng để bỏ file khỏi staging area
+git reser HEAD~1: để xoá commit gần nhất , clear tren staging area
