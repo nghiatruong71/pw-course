@@ -19,3 +19,7 @@ for (let i =1; i <=99; i+=2){
 }
 console.log(mang);
 // bai 4 
+for(let i=1; i<=10; i++){
+    console.log(`user${i}@gmail.com`);
+}
+// bai 5
