@@ -10,6 +10,6 @@ if (height > 100) {
 
     const min = sole * 8 / 10;
 
-    `console.log("Ly tuong:", ideal, "Toi da:", max, "Toi thieu:", min);`
+    console.log("Ly tuong:", ideal, "Toi da:", max, "Toi thieu:", min);
 
 }
