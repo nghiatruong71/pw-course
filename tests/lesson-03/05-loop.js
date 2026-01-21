@@ -23,3 +23,13 @@ for(let i=1; i<=10; i++){
     console.log(`user${i}@gmail.com`);
 }
 // bai 5
+let tong = 0;
+const doanhThu=[{"month":1,"total":123},
+                {"month":2,"total":13},
+                {"month":3,"total":133},
+                {"month":4,"total":423},]
+for(let i = 0; i< doanhThu.length;i++){
+    // console.log(doanhThu[i].total);
+    tong += doanhThu[i].total
+}
+  console.log(tong)
