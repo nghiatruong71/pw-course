@@ -59,3 +59,5 @@ order1.addItem({
 
 console.log("Total:", order1.calculateTotal());
 console.log("Order object:", order1);
+
+
